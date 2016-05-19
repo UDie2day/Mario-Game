@@ -32,7 +32,7 @@ public class Game extends Canvas implements Runnable {
 	private BufferedImage level1;
 	public static Sprite mushroom;
 	public static Sprite goomba[];
-	//test
+	//testing 123
 	
 	
 	public static int getFrameWidth() {
