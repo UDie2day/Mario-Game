@@ -34,6 +34,7 @@ public class Game extends Canvas implements Runnable {
 	public static Sprite goomba[];
 	//testing 123
 	
+	// This is a drill
 	
 	public static int getFrameWidth() {
 		return WIDTH*SCALE;
